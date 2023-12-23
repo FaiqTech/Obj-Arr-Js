@@ -39,7 +39,7 @@ var array = [
     text: "2% cashback",
   },
   {
-    img: "./img/irshad.png",
+    img: "./img/irshad.jpeg",
     title: "Irshad",
     price: "1.3.6 aylıqda oz qiymetine",
     text: "2% cashback",
